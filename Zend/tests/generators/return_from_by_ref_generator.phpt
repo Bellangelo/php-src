@@ -17,4 +17,5 @@ gen2()->next();
 
 ?>
 --EXPECT--
+Notice: Only variable references should be yielded by reference in %s on line %d
 int(42)
